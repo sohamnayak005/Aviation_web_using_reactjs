@@ -1,0 +1,25 @@
+.about_div{
+    width:71%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin:auto;
+    margin-top:20px;
+    margin-bottom:80px;
+    padding:30px;
+    border-radius:8px;
+}
+.about_div h1{
+    
+    margin-bottom:20px;
+    font-size:40px;
+    color: rgb(41 48 92);
+}
+.first_para{
+    color:rgb(34 69 147 );
+    font-size:20px;
+    margin-bottom: 20px;
+}
+.second_para{
+    color: rgb(41 48 92);
+    font-size:20px;
+    margin-bottom: 20px;
+}

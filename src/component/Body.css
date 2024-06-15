@@ -1,0 +1,113 @@
+.backgroung-img{
+    width:100%;
+    height:95vh;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/026/978/519/large_2x/helicopter-of-a-beautiful-transportation-with-futuristic-design-ai-generated-photo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position:relative;
+    margin-bottom: 70px;
+}
+.title{
+   position: absolute;
+   top:160px;
+   left:25%;
+}
+.title h1{
+    font-size:70px;
+    color:#fff;
+    text-shadow: 5px 5px 0px rgba(0,0,0,0.6);
+}
+.title p{
+    text-align: center;
+    font-size:30px;
+    color:#fff;
+    text-shadow: 5px 5px 0px rgba(0,0,0,0.6);
+}
+.view_more{
+    border: 2px solid skyblue;
+    color: white;
+    text-align: center;
+    background-color: transparent;
+    border-radius: 25px;
+    flex: 0 auto;
+    width: 170px;
+    min-height: 42px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 12px 20px 11px;
+    font-size: 1em;
+    font-weight: 800;
+    line-height: 1.2em;
+    transition: color .2s, background-color .2s;
+    display: block;
+    box-shadow: 5px 5px 0px rgba(0,0,0,0.6);
+}
+.view_more:hover{
+    background-color: skyblue;
+    cursor: pointer;
+}
+.view_more a{
+    text-decoration: none;
+    color: white;
+}
+#new_item{
+    width: 100%;
+}
+#new_item h4,h1{
+ text-align: center;
+
+}
+.new_helicapter{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom:30px;
+  width:95%;
+  margin:40px auto;
+}
+.item{
+   
+    width:22%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    border-radius: 10px;
+    height:420px;
+    transition: all 2s;
+    margin-bottom:30px;
+}
+.item:hover{
+    transform:scale(1.1,1.1);
+}
+.item img{
+    margin: 0;
+    width:100%;
+    height: 200px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.item_title{
+    padding:10px 0 10px 20px;
+
+}
+
+.passengers_logo{
+    width:50px;
+}
+.nameprice{
+    display: flex;
+    justify-content: space-between;
+ 
+}
+.nameprice p{
+    margin-right:10px;
+    font-weight:800;
+}
+.passengers{
+    margin-top:10px;
+    font-weight:800;
+}
+.about_data{
+    margin:10px 8px 10px 8px;
+}

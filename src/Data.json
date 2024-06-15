@@ -1,0 +1,69 @@
+[
+    {
+        "id":"1",
+        "name":"Airbus H125",
+        "price":"99,999",
+        "Passengers":5,
+        "img":"https://www.mhs-aviation.de/wp-content/uploads/2023/08/Airbus-Helicopter-H125-D-HHTT-2.jpg",
+        "about":"The H125 is capable of performing the most rigorous high and hot missions, able to transport an impressive sling capacity of 1,400 kg / 3,086 lb."
+    },
+    {
+        "id":"2",
+        "name":"Sikorsky S-76",
+        "price":"85,000",
+        "Passengers":3,
+        "img":"https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2022-02/img_4711_copy.jpg?itok=2GwI2liL",
+        "about":"The Sikorsky S-76 is an American multi-purpose medium-size commercial helicopter. The S-76 is powered by two turboshafts which combine to drive the main and tail rotors, each with four blades."
+
+    },
+    {
+        "id":"3",
+        "name":"Robinson R44",
+        "price":"65,990",
+        "Passengers":9,
+        "img":"https://5.imimg.com/data5/SELLER/Default/2024/2/384316178/YL/BZ/JD/211690031/robinson-44.jpg",
+        "about":"The Robinson R44 is a four-place light helicopter produced by the Robinson Helicopter Company since 1992. Based on the company's two-place Robinson ROBINSON R-22, the R44 features hydraulically-assisted flight controls."
+    },
+    {
+        "id":"4",
+        "name":"Bell 429",
+        "price":"55,555",
+        "Passengers":7,
+        "img":"https://assets.verticalmag.com/wp-content/uploads/2022/07/Life-Flight-Network-407-Image.jpg",
+        "about":"This aircraft is an advanced multi-mission helicopter that comes equipped with the latest weapons and mission management systems. This aircraft can be customized to fulfill your mission needs."
+    },
+    {
+        "id":"5",
+        "name":"Sikorsky s-92",
+        "price":"1,00,000",
+        "Passengers":3,
+        "img":"https://aerocorner.com/wp-content/uploads/2019/11/Sikorsky-S-92-of-The-Royal-Thai-Air-Force.jpg",
+        "about":"The global fleet of the multi-mission Sikorsky S-92® , surpassing 2 million flight hours in a variety of missions including search and rescue, oil and gas transportation and VIP transportation in 28 countries."
+    },
+    {
+        "id":"6",
+        "name":"Eurocopter EC135",
+        "price":"1,20,000",
+        "Passengers":2,
+        "img":"https://api.flyingbulls.at/fileadmin/content/flotte/eurocopter_ec135/2023-11_fotos/00_header_eurocopter_ec135_the_flying_bulls.jpg",
+        "about":"The Eurocopter EC135 is a twin-engine civil helicopter produced by Eurocopter, widely used amongst police and ambulance services and for executive transport."
+    },
+    {
+        "id":"7",
+        "name":"Leonardo AW169",
+        "price":"60,000",
+        "Passengers":5,
+        "img":"https://upload.wikimedia.org/wikipedia/commons/b/bb/Agusta_Westland_AW_169_%28solo%29.jpg",
+        "about":"The AW169 is a highly adaptable asset. It offers a specially customised configuration with a dedicated interior to support maintenance personnel working on wind turbines. "
+    },
+    {
+        "id":"8",
+        "name":"AH-1 Cobra",
+        "price":"2,00,000",
+        "Passengers":9,
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/AH-1Z_attack_helicopter_with_Marine_Light_Attack_Helicopter_Squadron_775_Group_41%2C_execute_pre-flight_checks_and_procedures_%28cropped%29.jpg/800px-AH-1Z_attack_helicopter_with_Marine_Light_Attack_Helicopter_Squadron_775_Group_41%2C_execute_pre-flight_checks_and_procedures_%28cropped%29.jpg",
+        "about":"The first AH-1 Cobra took flight on September 7, 1965, and went into production soon after. The Cobra was used by the Army throughout the Vietnam War to provide air support for the ground troops and to escort the transport helicopters."
+    }
+
+    
+]

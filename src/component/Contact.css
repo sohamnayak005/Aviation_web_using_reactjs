@@ -1,0 +1,36 @@
+.details_div{
+    width:70%;
+    margin:20px auto;
+   margin-bottom: 70px;
+}
+.details_div input{
+    display: block;
+    padding:10px 10px 10px 20px;
+    width:95%;
+    margin-bottom:20px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    border: none;
+    outline: none;
+    height:50px;
+}
+.details_div button{
+    padding:8px;
+    width:200px;
+    display: block;
+    font-size:18px;
+    border-radius:9px;
+    color: rgb(27, 37, 102);
+    font-weight: 700;
+    border: 1px solid rgb(27, 37, 102);
+    outline: none;
+    transition: all 1s;
+}
+.details_div button:hover{
+    color: #fff;
+    background-color:rgb(27, 37, 102);
+    cursor: pointer;
+
+}
+#contact h1{
+    color: rgb(27, 37, 102);
+}

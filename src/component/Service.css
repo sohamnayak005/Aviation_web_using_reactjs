@@ -1,0 +1,56 @@
+#services{
+    background-image: url("https://www.airbus.com/sites/g/files/jlcbta136/files/styles/airbus_1440x1440/public/2021-10/Slider-HCare-Services.webp?itok=LcmeG-6L");
+    background-repeat: no-repeat;
+    width:100%;
+    height:85vh;
+   background-position: center;
+   background-size: cover;
+   margin-bottom:170px;
+   position:relative;
+}
+.sub_service{
+    width:850px;
+    position: absolute;
+    background-color: #fff;
+    border-radius:4px;
+    bottom:-90px;
+    padding:0 80px 10px 80px;
+    height:200px;
+    left:120px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.sub_service h1{
+    text-align: left;
+    margin:20px 0 20px 10px;
+    font-size:50px;
+}
+.sub_service p{
+    text-align: left;
+    margin:20px 0 0 10;
+    font-size:30px;
+    color: #001e5d;
+}
+.main_ser{
+    width:70%;
+    display: flex;
+    justify-content: space-around;
+    margin:auto;
+    margin-bottom:40px;
+
+}
+.sub_ser{
+    height:450px;
+    width:30%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    padding-bottom:20px;
+}
+.sub_ser img{
+    width: 100%;
+}
+.min_sub{
+    padding:10px;
+}
+.min_sub h1{
+    text-align: left;
+    margin:5px 0 10px 0;
+}
